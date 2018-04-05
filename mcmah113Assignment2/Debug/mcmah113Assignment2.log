@@ -1,0 +1,15 @@
+﻿  mcmah113Chessboard.cpp
+c:\users\chris\source\repos\mcmah113assignment2\mcmah113assignment2\mcmah113Chessboard.h(1980): warning C4101: 'e': unreferenced local variable
+c:\users\chris\source\repos\mcmah113assignment2\mcmah113assignment2\mcmah113Chessboard.h(2007): warning C4101: 'e': unreferenced local variable
+  mcmah113Leaderboard.cpp
+  mcmah113PlayerNameDialog.cpp
+  mcmah113Start.cpp
+c:\users\chris\source\repos\mcmah113assignment2\mcmah113assignment2\mcmah113ChessBoard.h(1980): warning C4101: 'e': unreferenced local variable
+c:\users\chris\source\repos\mcmah113assignment2\mcmah113assignment2\mcmah113ChessBoard.h(2007): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+c:\users\chris\source\repos\mcmah113assignment2\mcmah113assignment2\mcmah113chessboard.h(2034): warning C4715: 'mcmah113Assignment2::mcmah113Chessboard::queensQuadrant': not all control paths return a value
+c:\users\chris\source\repos\mcmah113assignment2\mcmah113assignment2\mcmah113chessboard.h(2163): warning C4715: 'mcmah113Assignment2::mcmah113Chessboard::allQueensSafe': not all control paths return a value
+c:\users\chris\source\repos\mcmah113assignment2\mcmah113assignment2\mcmah113chessboard.h(2034): warning C4715: 'mcmah113Assignment2::mcmah113Chessboard::queensQuadrant': not all control paths return a value
+c:\users\chris\source\repos\mcmah113assignment2\mcmah113assignment2\mcmah113chessboard.h(2163): warning C4715: 'mcmah113Assignment2::mcmah113Chessboard::allQueensSafe': not all control paths return a value
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  mcmah113Assignment2.vcxproj -> C:\Users\Chris\source\repos\mcmah113Assignment2\Debug\mcmah113Assignment2.exe
